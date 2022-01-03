@@ -13,7 +13,7 @@ namespace SharpWeather
         {
             
             //Open Weather Map API Key goes here.
-            const string APP_ID = "dc76461981fcf77bb217781e10bbc9f4";
+            const string APP_ID = "----openweathermapAPIkey-----";
 
             var manager = new WeatherManager(APP_ID);
                         
